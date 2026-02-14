@@ -1,3 +1,5 @@
+A BI training project showing issue intake, resolution throughput, and cumulative backlog implemented with both Power BI & SQL/Postgres
+
 # CSV version
 
 ## Project Goal
