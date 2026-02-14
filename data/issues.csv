@@ -1,0 +1,31 @@
+issue_id,page_id,issue_type,severity,identified_date,resolved_date
+1001,2,Accessibility,High,2025-10-01,
+1002,3,Content Accuracy,Medium,2025-09-15,2025-10-02
+1003,2,Broken Feature,High,2025-10-05,2025-10-06
+1004,5,Accessibility,Low,2025-08-20,2025-09-01
+1005,1,Content Accuracy,Low,2025-07-12,
+1006,4,Accessibility,Medium,2025-07-18,
+1007,3,Content Accuracy,Low,2025-08-02,2025-08-25
+1008,2,Broken Feature,High,2025-08-11,
+1009,5,Accessibility,Medium,2025-08-29,2025-09-10
+1010,1,Accessibility,Low,2025-09-03,
+1011,4,Accessibility,High,2025-09-05,
+1012,2,Content Accuracy,Medium,2025-09-08,
+1013,3,Broken Feature,High,2025-09-14,2025-10-01
+1014,5,Accessibility,Low,2025-09-20,2025-09-28
+1015,1,Content Accuracy,Medium,2025-09-25,
+1016,4,Accessibility,Low,2025-10-08,2025-10-20
+1017,2,Broken Feature,Medium,2025-10-12,2025-11-05
+1018,3,Accessibility,High,2025-10-15,
+1019,5,Content Accuracy,Low,2025-10-22,2025-11-01
+1020,1,Accessibility,Low,2025-11-03,2025-11-10
+1021,4,Content Accuracy,Medium,2025-11-09,
+1022,2,Broken Feature,High,2025-11-14,2025-12-02
+1023,3,Accessibility,Low,2025-11-18,2025-11-28
+1024,5,Content Accuracy,Medium,2025-12-01,
+1025,1,Accessibility,Low,2025-12-04,2025-12-15
+1026,4,Broken Feature,High,2025-12-08,
+1027,2,Accessibility,Medium,2025-12-12,
+1028,3,Content Accuracy,Low,2025-12-18,2025-12-22
+1029,5,Accessibility,High,2025-12-20,
+1030,1,Broken Feature,Medium,2025-12-27,
