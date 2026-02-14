@@ -2,9 +2,6 @@ A BI training project showing issue intake, resolution throughput, and cumulativ
 
 # CSV version
 
-## Project Goal
-Simulate operational issue tracking and build a Power BI dashboard to model intake, resolution throughput, and cumulative backlog trends.
-
 ## Data Model
 Issues table (main source for dashboard)
 Pages table
